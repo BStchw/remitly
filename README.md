@@ -13,7 +13,7 @@ To use this library, the following tools are required:
 # Installation
 Clone the repository to your local environment:
 
-_git clone <repository_url>_
+_git clone https://github.com/BStchw/remitly
 
 Import the project into your development environment.
 
